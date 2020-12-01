@@ -1,0 +1,27 @@
+{
+    "-MNCBRPt5mDTTSfkhaoS" : {
+        "question": "What is JSX?",
+        "answer": "JSX is a syntax extension to JavaScript and comes with the full power of JavaScript. JSX produces React “elements”.",
+        "firebaseKey": "-MNCBRPt5mDTTSfkhaoS"
+    }, 
+    "-MNCBda424TSfkh4qoiP" : {
+      "question": "How would you describe React?",
+      "answer": "React is an open-source, front end, JavaScript library for building user interfaces or UI components",
+      "firebaseKey": "-MNCBda424TSfkh4qoiP"
+    },
+    "-MNCBRPt5rgr542vrvrR" : {
+      "question": "Is React a framework or a library?",
+      "answer": "Libary.",
+      "firebaseKey": "-MNCBRPt5rgr542vrvrR"
+    },
+    "-MNCBRPtdfd4qjkbadfM" : {
+      "question": "What is a React state?",
+      "answer": "React components has a built-in state object. The state object is where you store property values that belongs to the component. When the state object changes, the component re-renders.",
+      "firebaseKey": "-MNCBRPtdfd4qjkbadfM"
+    },
+    "-MNCBRPt38jkhadahbBB" : {
+      "question": "What is a React prop?",
+      "answer": "“Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another. But the important part here is that data with props are being passed in a uni-directional flow. ( one way from parent to child).",
+      "firebaseKey": "-MNCBRPt38jkhadahbBB"
+    }
+}
